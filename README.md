@@ -1,6 +1,6 @@
 ## Some Spel Stuff
 
-Worth mentioning may be the graphviz dot file generator for Spring spel expressions. 
+Worth mentioning may be the graphviz dot file generator to visualize the abstract syntax tree of Spring spel expressions. 
 
 Change into the project directory 'springstuff' and run ...
 
