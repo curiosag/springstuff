@@ -6,9 +6,9 @@
 	<version>0.1</version>
 
 	<parent>
-		<groupId>org.springframework</groupId>
-		<artifactId>ads</artifactId>
-		<version>0.1.0</version>
+		<groupId>org.cg.springstuff</groupId>
+		<artifactId>springstuff</artifactId>
+		<version>0.1</version>
 	</parent>
 
 	<build>

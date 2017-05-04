@@ -1,4 +1,4 @@
-##Some Spel Stuff
+## Some Spel Stuff
 
 Worth mentioning may be the graphviz-dot-file generator for Spring spel expressions. 
 

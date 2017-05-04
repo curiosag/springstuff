@@ -22,7 +22,8 @@ public class SpelFilter {
 
     public FilterResult filterPropertyOrFieldReference() {
     	try {
-			return new FilterResult(filter(PropertyOrFieldReference.class), Optional.empty());
+			Optional<String> opt = Optional.empty();
+			return new FilterResult(filter(PropertyOrFieldReference.class), opt);
 		} catch (SpelParseException e) {
 			return new FilterResult(new LinkedList<PropertyOrFieldReference>(), Optional.of(e.getMessage()));
 		}
